@@ -1,6 +1,7 @@
 ﻿# Keshi App
- 
-Anonymous alert feeds.
+
+Anonymous alert feeds for Cybersecurity professionals
+
 <br>
 
 <p align="center">
