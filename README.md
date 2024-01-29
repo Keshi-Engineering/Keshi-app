@@ -1,6 +1,6 @@
 ﻿# Keshi App
  
-Anonymous alert feeds by cybersecurity professionals powered by Nostr.
+Anonymous alert feeds.
 <br>
 
 <p align="center">
@@ -11,14 +11,15 @@ Anonymous alert feeds by cybersecurity professionals powered by Nostr.
 
 ## Get Started
 
-Keshi is an anonymous alert feeds app for cybersecurity professionals powered by Nostr - the new communication protocol that doesn't rely on blockchain technology to scale.
+Keshi is an anonymous alert feeds app for cybersecurity professionals powered by Nostr - The new decentralized communication protocol that doesn't rely on blockchain technology to scale.
 
 - Nostr uses asymmetric key cryptography that can't be compromised.
 - 100% anonymous - your NSEC key is your ID - no email or phone number required!
 - You own your data - we collect no user data and keep Big Tech out of your life!
 - Follow users with familiar Twitter UX fans have come to expect.
 - No one can manipulate posts you see or share with followers.
-- Receive Bitcoin from anyone in the world with built-in support for non-custodial Lightning Addresses.
+- Receive Bitcoin from anyone in the world with built-in support for Lightning Addresses with enhanced privacy.
+
 Ex: you@keshi.one
 
 Lightning Addresses are your gateway to perfect money - it's the easiest way to start accepting Bitcoin for payments without having to be online all the time.
