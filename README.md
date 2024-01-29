@@ -4,7 +4,7 @@ Anonymous alert feeds by cybersecurity professionals powered by Nostr.
 <br>
 
 <p align="center">
-<img src="./assets/single_s_white_bg.png" width="200" />
+<img src="./single_s_white_bg.png" width="200" />
 </p>
 
 <br>
