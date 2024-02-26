@@ -41,6 +41,6 @@ You can also scan this QR code to open the download page automatically.
 <br>
 
 <p align="center">
-<img src="https://github.com/Keshi-Engineering/Keshi-app/assets/25140579/ed426762-6697-4bd4-82f2-03fb2125b078" width="300" />
-</p>
+<img src="https://github.com/Keshi-Engineering/Keshi-app/assets/25140579/14865ea1-3788-43d9-bbed-f2a9bc68af59" width="300" />
+
 
